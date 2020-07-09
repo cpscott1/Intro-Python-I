@@ -19,7 +19,6 @@ y = [num + num for num in range(5)]
 y = [cube**3 for cube in range(10)]
 
 
-
 print(y)
 
 # Write a list comprehension to produce the uppercase version of all the
